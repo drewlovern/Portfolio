@@ -10,7 +10,7 @@
 
 <p> Below is a link to my Portfolio Website. I created it using a combination of HTML, JavaScript, and CSS. 
   <br>
-  Complete with styling, animation, slideshow, contact form and more. It was then uploaded via FileZilla using the FTP cPanel through godaddy.com.<p>
+  Complete with styling, animation, slideshow, contact form and more. I then uploaded all files via FileZilla and cPanel through godaddy.com.<p>
 
 <h2> Website Link </h2>
 
